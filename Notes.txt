@@ -1,0 +1,4 @@
+Npm to install 
+npm install redux react-redux redux-devtools-extension redux-thunk @material-ui/core @material-ui/icons
+
+

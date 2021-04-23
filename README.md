@@ -5,8 +5,11 @@
 It Shows you how to:
 
 > Create a store, using devTools, thunk middleware for async calls, and chow to combine reducers.
+> 
 > How to create a reducer, how to initialize state, industry standart switch case,  and how to use imutability to edit your state.
+> 
 > How to create action, with type and payload.
+> 
 > How to call an action on a component by using the `useDispatch()` react-redux hook and how to access your state by using the `useSelector()` hook.
 
 

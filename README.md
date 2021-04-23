@@ -14,18 +14,27 @@ It Shows you how to:
 
 #### You can clone the repo into your local machine by: 
 
+
 > cd into your desired folder: 
+> 
 > `$ git clone https://github.com/Pedro-Goncal/todo-redux-class`
+> 
 > `npm install`
+> 
 > `npm start`
 
 #### you can also donload the zip files
+
 > cd into your desired folder.
+> 
 > Open you favourite editor.
+> 
 > `npm install`
+> 
 > `npm start`
 
 #### or if you want to just visualize the code you can use this link:
+
 > `https://github1s.com/Pedro-Goncal/todo-redux-class`
 
 
